@@ -25,9 +25,11 @@ ___
 
 ### How do I do it?
 
+<p float="left">
 <img alt='webstorm' style='background-color: aliceblue' height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" />
 <img alt='figma' height="28" width="28" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 <img alt='trello' height="28" width="28" src="https://avatars.githubusercontent.com/u/6181431?s=200&v=4" />
+ </p>
 
 
 
