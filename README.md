@@ -9,6 +9,7 @@ ___
 
 ### What do I do?
 
+<p float="left">
 <img alt='typescript' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img alt='javascript' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt='react' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -19,6 +20,7 @@ ___
 <img alt='tailwind' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img alt='mysql' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt='mongodb' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+ </p>
 
 
 ### How do I do it?
