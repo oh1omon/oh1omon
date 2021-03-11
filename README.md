@@ -1,16 +1,40 @@
-### Hi there 👋
+## Aloha, I am Artem! 👋
 
-<!--
-**oh1omon/oh1omon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+### How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img height="28"  width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/oh1omon/) 
+[<img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/oh1omon/)
+
+### What do I do?
+
+<img alt='typescript' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img alt='javascript' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt='react' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt='nodejs' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt='html' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt='css' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt='sass' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt='tailwind' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img alt='mysql' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt='mongodb' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+
+### How do I do it?
+
+<img alt='webstorm' style='background-color: aliceblue' height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" />
+<img alt='figma' height="28" width="28" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
+<img alt='trello' height="28" width="28" src="https://avatars.githubusercontent.com/u/6181431?s=200&v=4" />
+
+
+
+***
+
+- 🔭 I’m currently working on my MoneyNi app
+- 🌱 I’m currently learning TS/JS
+- ⚡ Fun fact: I am always the youngest in the team
+
+***
+
+[![Top Langs](https://github-readme-stats-oh1omon.vercel.app/api/top-langs/?username=oh1omon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
