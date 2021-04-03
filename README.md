@@ -18,6 +18,7 @@ ___
 <img alt='css' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt='sass' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt='tailwind' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+ <img alt='styled-components' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
 <img alt='mysql' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt='mongodb' height="28" width="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
  </p>
@@ -26,7 +27,7 @@ ___
 ### How do I do it?
 
 <p float="left">
-<img alt='webstorm' style='background-color: aliceblue' height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/webstorm.svg" />
+<img alt='vscode' style='background-color: aliceblue' height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vscode.svg" />
 <img alt='figma' height="28" width="28" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 <img alt='trello' height="28" width="28" src="https://avatars.githubusercontent.com/u/6181431?s=200&v=4" />
  </p>
@@ -35,7 +36,7 @@ ___
 
 ***
 
-- 🔭 I’m currently working on my MoneyNi app
+- 🔭 I’m currently working on my Magaziini app
 - 🌱 I’m currently learning TS/JS
 - ⚡ Fun fact: I am always the youngest in the team
 
