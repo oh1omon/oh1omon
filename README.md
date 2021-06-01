@@ -36,7 +36,7 @@ ___
 
 ***
 
-- 🔭 I’m currently working on secret project 🤫
+- 🔭 I’m currently working on MoneyNi
 - 🌱 I’m currently learning TS/JS
 - ⚡ Fun fact: I am always the youngest in the team and I like it!
 
