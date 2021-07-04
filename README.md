@@ -38,7 +38,14 @@ ___
 
 - 🔭 I’m currently working on MoneyNi
 - 🌱 I’m currently learning TS/JS
-- ⚡ Fun fact: I am always the youngest in the team and I like it!
+- ⚡ Fun fact: I am always the youngest in the team, and I like it!
+
+***
+### My Deployed Projects
+
+Oh1omon Studios(prev. Magaziini) - https://magaziini.netlify.app
+
+MoneyNi - Work in progress, but coming soon!
 
 ***
 
