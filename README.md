@@ -41,9 +41,13 @@ ___
 - ⚡ Fun fact: I am always the youngest in the team, and I like it!
 
 ***
-### My Deployed Projects
+### Deployed Projects
 
-Oh1omon Studios(prev. Magaziini) - https://magaziini.netlify.app
+[Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
+
+[Silta(College project)](https://silta.netlify.app "Silta")
+
+[Inoffensive game](https://inoffensive-game.netlify.app "Inoffensive game")
 
 MoneyNi - Work in progress, but coming soon!
 
