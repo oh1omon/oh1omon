@@ -45,9 +45,9 @@ ___
 
 [Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
 
-[Silta (College project)](https://silta.netlify.app "Silta")
+[Silta (College team project)](https://silta.netlify.app "Silta")
 
-[Inoffensive game (College project)](https://inoffensive-game.netlify.app "Inoffensive game")
+[Inoffensive game (College team project)](https://inoffensive-game.netlify.app "Inoffensive game")
 
 MoneyNi - Work in progress, but coming soon!
 
