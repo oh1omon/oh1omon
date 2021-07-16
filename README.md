@@ -36,7 +36,7 @@ ___
 
 ***
 
-- 🔭 I’m currently working on MoneyNi
+- 🔭 I’m currently working on Chapter Reading project
 - 🌱 I’m currently learning TS/JS
 - ⚡ Fun fact: I am always the youngest in the team, and I like it!
 
