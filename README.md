@@ -45,11 +45,11 @@ ___
 
 [Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
 
+[MoneyNi](http://ec2-3-129-211-70.us-east-2.compute.amazonaws.com "MoneyNi")
+
 [Silta (College team project)](https://silta.netlify.app "Silta")
 
 [Inoffensive game (College team project)](https://inoffensive-game.netlify.app "Inoffensive game")
-
-[MoneyNi](http://ec2-3-129-211-70.us-east-2.compute.amazonaws.com "MoneyNi")
 
 ***
 
