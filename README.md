@@ -49,7 +49,7 @@ ___
 
 [Inoffensive game (College team project)](https://inoffensive-game.netlify.app "Inoffensive game")
 
-MoneyNi - Work in progress, but coming soon!
+[MoneyNi](http://ec2-3-129-211-70.us-east-2.compute.amazonaws.com "MoneyNi")
 
 ***
 
