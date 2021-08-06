@@ -36,16 +36,16 @@ ___
 
 ***
 
-- 🔭 I’m currently working on Chapter Reading project
+- 🔭 I’m currently working on Chapter Reading app
 - 🌱 I’m currently learning TS/JS
 - ⚡ Fun fact: I am always the youngest in the team, and I like it!
 
 ***
 ### Deployed Projects
 
-[Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
+[Chapter Navigation](https://chapter-navigation.netlify.app "Chapter Navigation")
 
-[MoneyNi](http://ec2-3-129-211-70.us-east-2.compute.amazonaws.com "MoneyNi")
+[Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
 
 [Silta (College team project)](https://silta.netlify.app "Silta")
 
