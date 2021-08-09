@@ -43,6 +43,8 @@ ___
 ***
 ### Deployed Projects
 
+[MoneyNi](https://moneyni.netlify.app "MoneyNi")
+
 [Chapter Navigation](https://chapter-navigation.netlify.app "Chapter Navigation")
 
 [Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
@@ -50,9 +52,6 @@ ___
 [Silta (College team project)](https://silta.netlify.app "Silta")
 
 [Inoffensive game (College team project)](https://inoffensive-game.netlify.app "Inoffensive game")
-
-[MoneyNi](https://moneyni.netlify.app "MoneyNi")
-
 
 ***
 
