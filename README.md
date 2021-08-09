@@ -47,7 +47,7 @@ ___
 
 [MoneyNi](https://moneyni.netlify.app "MoneyNi")
 
-[Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
+[Oh1omon Studios (prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
 
 [Silta (College team project)](https://silta.netlify.app "Silta")
 
