@@ -36,8 +36,8 @@ ___
 
 ***
 
-- 🔭 I’m currently working on Chapter Reading app
-- 🌱 I’m currently learning TS/JS
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning TS/JS, Python
 - ⚡ Fun fact: I am always the youngest in the team, and I like it!
 
 ***
