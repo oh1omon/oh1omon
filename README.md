@@ -43,9 +43,9 @@ ___
 ***
 ### Deployed Projects
 
-[MoneyNi](https://moneyni.netlify.app "MoneyNi")
-
 [Chapter Navigation](https://chapter-navigation.netlify.app "Chapter Navigation")
+
+[MoneyNi](https://moneyni.netlify.app "MoneyNi")
 
 [Oh1omon Studios(prev. Magaziini)](https://ostud1o.netlify.app "Ostud1o")
 
