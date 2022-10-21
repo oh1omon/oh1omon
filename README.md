@@ -1,3 +1,4 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQFduY7fdkU80g/profile-displaybackgroundimage-shrink_350_1400/0/1666379351130?e=1671667200&v=beta&t=h-UfcDHTw_KA830Ct-_8DICDGOSbgGgQ2k8UIiTzzvk)](https://www.linkedin.com/in/oh1omon/)
 <h1 align="center">Aloha 👋, I'm Artem</h1>
 <h3 align="center">Cloud&DevOps Engineer @Capgemini</h3>
 
