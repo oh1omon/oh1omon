@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oh1omon&label=Profile%20views&color=0e75b6&style=flat" alt="oh1omon" /> </p>
 
+- 🌱 I’m currently learning **CKS**
+
+- 💬 Ask me about **Just anything about Cloud and/or DevOps :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oh1omon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oh1omon" height="30" width="40" /></a>
