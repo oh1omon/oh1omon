@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQEQ1g2YEBo04A/profile-displaybackgroundimage-shrink_350_1400/0/1666418166554?e=1671667200&v=beta&t=m2g6U8KmXCAV5swUZslgFk23eUrB4XgbvCdtiYDAw7g)](https://www.linkedin.com/in/oh1omon/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEQ1g2YEBo04A/profile-displaybackgroundimage-shrink_350_1400/0/1666418166554?e=1687996800&v=beta&t=fc3sy_q-oSY5FbL-5hyipgHIQmQhOAHOni6BMA68UMc)
 
 <h1 align="center">Aloha 👋, I'm Artem</h1>
 <h3 align="center">Cloud & DevOps Engineer @Capgemini</h3>
