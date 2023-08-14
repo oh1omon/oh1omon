@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 👋, I'm Artem</h1>
-<h3 align="center">Cloud & DevOps Engineer @Capgemini</h3>
+<h3 align="center">Cloud & DevOps Engineer @Wapice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oh1omon&label=Profile%20views&color=0e75b6&style=flat" alt="oh1omon" /> </p>
 
